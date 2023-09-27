@@ -1,5 +1,5 @@
 h1{
-    color: rgb(188, 5, 249);
+    color: rgb(0, 255, 17);
     font-style: italic;
     font-size: 45px;
     display: inline;
@@ -23,6 +23,7 @@ h1{
     border-radius: 50%;
     
 }
+
 
 #flag{
     display: flex;

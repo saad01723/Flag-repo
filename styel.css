@@ -1,0 +1,41 @@
+h1{
+    color: rgb(188, 5, 249);
+    font-style: italic;
+    font-size: 45px;
+    display: inline;
+}
+#main-flag{
+    width: 800px;
+    height: 400px;
+    background-color:green;
+}
+.circel-flex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  
+}
+.color{
+    background-color: red;
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    
+}
+
+#flag{
+    display: flex;
+}
+.bambo{
+    height: 900px;
+    width: 20px;
+    background-color: chocolate;
+
+}
+.middle{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
